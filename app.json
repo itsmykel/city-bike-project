@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "City Bike Final Version",
+    "icon": "./images/bike-iconD.png",
+    "description": "AwesomeprojectApp",
+    "sdkVersion": "27.0.0",
+    "android": {
+      "package": "rca.noypiboys.citybikefinalversion",
+      "versionCode": 1,
+      "icon": "./images/bike-iconD.png"
+    }
+  }
+  }
